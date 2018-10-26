@@ -7,7 +7,7 @@
 - [Everton Nunes](https://github.com/pepoeverton)
 - [Lauren Wright](https://github.com/laurenewright)
 Jesse
-- [Mario DeLaPaz](https://github.com/mariocd10)
+- [Mario DeLaPaz](https://github.com/mariocd10) Ashwini Raj
 - [fyusuf1](https://github.com/fyusuf1)
 Rajesh Verma
   [Justin Kook] (https://github.com/justinkook)
