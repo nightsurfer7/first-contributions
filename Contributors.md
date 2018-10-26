@@ -13,6 +13,7 @@ Rajesh Verma
   [Justin Kook] (https://github.com/justinkook)
 - [aditchanchal](https://github.com/aditchanchal)
 - [corxrew](https://github.com/corxrew)
+Ashwini Raj
 - [sarvasvkulpati](https://github.com/sarvasvkulpati)
 - [Muhammad Fiaz Ansari](https://github.com/mfiazansari)
 - [kzack123](https://github.com/kzack123)
@@ -9521,4 +9522,3 @@ quattad
 - [Alex Innes] (https://github.com/alexinnes)
 - [Nnaemeka V. Eziamaka](https://github.com/EziamakaNV)
 - [Sarthak Thakur](https://github.com/sarthak247)
-- [Ryo Arima](https://github.com/nozira)
