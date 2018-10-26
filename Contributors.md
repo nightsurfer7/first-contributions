@@ -2,7 +2,6 @@
 
 - [Ihoey](https://github.com/ihoey)
 - [Aditya Gupta](https://github.com/6aditya8)
-- [Omkar Kadam](https://github.com/omkar8kadam)
 - [Maike Negreiros](https://github.com/maikenegreiros)
 - [DaLeste777](https://github.com/DaLeste777)
 - [Everton Nunes](https://github.com/pepoeverton)
@@ -9524,3 +9523,4 @@ quattad
 - [Nnaemeka V. Eziamaka](https://github.com/EziamakaNV)
 - [Sarthak Thakur](https://github.com/sarthak247)
 - [Ryo Arima](https://github.com/nozira)
+ashwini
